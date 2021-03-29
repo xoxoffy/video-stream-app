@@ -1,1 +1,1 @@
-A simple app that lets the user log in and stream
+A simple app that lets the user log in using OAuth and stream
